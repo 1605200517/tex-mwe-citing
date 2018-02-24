@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[style=authoryear-comp]{biblatex}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+
+\begin{filecontents}{\jobname.bib}
+@book{key,
+  author = {Author, A.},
+  year = {2001},
+  title = {Title},
+  publisher = {Publisher},
+}
+\end{filecontents}
+
+\begin{document}
+
+\cite{key}
+
+\printbibliography
+
+\end{document}

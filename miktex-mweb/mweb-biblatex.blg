@@ -1,0 +1,10 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'mweb-biblatex.blg'
+[33] biber:287> INFO - === Sat Feb 24, 2018, 21:53:09
+[111] Biber.pm:348> INFO - Reading 'mweb-biblatex.bcf'
+[230] Utils.pm:147> WARN - Warning: Found biblatex control file version 3.4, expected version 3.0
+[231] Biber.pm:742> INFO - Found 1 citekeys in bib section 0
+[237] Biber.pm:3151> INFO - Processing section 0
+[263] Biber.pm:3308> INFO - Looking for bibtex format file 'mweb-biblatex.bib' for section 0
+[264] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[265] bibtex.pm:974> INFO - Found BibTeX data source 'mweb-biblatex.bib'
