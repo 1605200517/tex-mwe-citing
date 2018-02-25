@@ -1,0 +1,16 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[0] Config.pm:305> INFO - Logfile is 'mweb-biblatex.blg'
+[22] biber:313> INFO - === Sun Feb 25, 2018, 11:40:32
+[39] Biber.pm:371> INFO - Reading 'mweb-biblatex.bcf'
+[92] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[104] Biber.pm:3976> INFO - Processing section 0
+[114] Biber.pm:4136> INFO - Looking for bibtex format file 'mweb-biblatex.bib' for section 0
+[114] bibtex.pm:1444> INFO - Reading ascii input as UTF-8
+[114] bibtex.pm:1490> INFO - LaTeX decoding ...
+[116] bibtex.pm:1306> INFO - Found BibTeX data source 'mweb-biblatex.bib'
+[128] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[128] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[128] Biber.pm:3804> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[129] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[130] bbl.pm:617> INFO - Writing 'mweb-biblatex.bbl' with encoding 'ascii'
+[131] bbl.pm:720> INFO - Output to mweb-biblatex.bbl
